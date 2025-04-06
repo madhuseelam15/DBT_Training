@@ -39,4 +39,4 @@ models:
   DBT_Training:
     # Applies to all files under models/example/
     analysis:
-      +materialized: table
+      materialized: table
